@@ -1,7 +1,7 @@
 # Event Booking / Ticketing API (Eventflow)
 
-A backend API for creating events and booking tickets, built to showcase the
-"senior signal" backend topics: **JWT auth + RBAC, safe concurrency on limited
+A backend API for creating events and booking tickets
+**JWT auth + RBAC, safe concurrency on limited
 inventory, idempotency keys, Stripe test payments, premium tiers, and
 analytics.**
 
