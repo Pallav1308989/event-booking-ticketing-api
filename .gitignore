@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Secrets — NEVER commit real credentials
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
