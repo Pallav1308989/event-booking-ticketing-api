@@ -1,4 +1,4 @@
-# Event Booking / Ticketing API (Eventbrite-lite)
+# Event Booking / Ticketing API (Eventflow)
 
 A backend API for creating events and booking tickets, built to showcase the
 "senior signal" backend topics: **JWT auth + RBAC, safe concurrency on limited
